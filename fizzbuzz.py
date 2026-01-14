@@ -18,7 +18,7 @@ def fizzbuzz():
             entrada = input("Introduce un número del 1 al 100 (o 'q' para salir): ")
 
             if entrada.lower() == "q":
-                print("Hasta luego 👋")
+                print("Adiosss!!!")
                 continuar = False
             else:
                 numero = int(entrada)
