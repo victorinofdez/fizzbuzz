@@ -1,48 +1,48 @@
-# Divisible entre 3, el programa debe imprimir "Fizz"
 
 def test_numero_divisible_entre_3_imprime_fizz():
+# Divisible entre 3, el programa debe imprimir "Fizz"
     pass
 
-# Divisible entre 5, el programa debe imprimit "Buzz"
 
 def test_numero_divisible_entre_5_imprime_buzz():
+# Divisible entre 5, el programa debe imprimit "Buzz"
     pass
 
-# Divisible entre 3 y entre 5, el programa debe imprimir "FizzBuzz"
 
 def test_numero_divisible_entre_3_y_5_imprime_fizzbuzz():
+# Divisible entre 3 y entre 5, el programa debe imprimir "FizzBuzz"
     pass
 
-# input de número negativo
 
 def test_input_numero_negativo_lanza_error():
+# input de número negativo
     pass
 
-# input de número cero
 
 def test_input_cero_lanza_error():
+# input de número cero
     pass
 
-# input de numero decimal
 
 def test_input_numero_decimal_lanza_error():
+# input de numero decimal
     pass
 
-# input de un carácter no numérico
 
 def test_input_caracter_no_numerico_lanza_error():
+# input de un carácter no numérico
     pass
 
-# input de una candena de texto
 
 def test_input_cadena_texto_lanza_error():
+# input de una candena de texto
     pass
 
-# input de número por encima de 100
 
 def test_input_numero_mayor_a_100_lanza_error():
+# input de número por encima de 100
     pass
 
-# input de número por debajo de 1
 def test_input_numero_menor_a_1_lanza_error():
+# input de número por debajo de 1
     pass
